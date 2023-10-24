@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.foto {
+    border-radius: 2rem;
+    width: 15rem;
+}
+.foto:hover {
+    border: solid 0.1rem;
+}
+
+ul {
+    list-style: none;
+}
+
+.github {
+    color: rgb(146, 83, 204);
+    text-decoration: none;
+    font-weight: bold;
+}
+.github:hover {
+    text-decoration: underline;
+}
